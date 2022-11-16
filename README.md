@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliadnan20
-- 👀 I’m interested in Knowlegde graphs.
-- 🌱 I’m currently learning electrical engineering and automation.
-- 💞️ I’m looking to collaborate on Knowledge graphs, Pthon, Deep learning.
+- 👀 I’m interested in Autonomous Car Driving.
+- 🌱 I’m currently learning Control Science and Engineering.
+- 💞️ I’m looking to collaborate on Pthon, Deep learning, computer vision, Data Analytics etc.
 - 📫
 
 <!---
