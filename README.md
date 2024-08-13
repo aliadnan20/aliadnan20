@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliadnan20
 - 👀 I’m interested in Autonomous Car Driving.
-- 🌱 I’m currently learning Control Science and Engineering.
-- 💞️ I’m looking to collaborate on Pthon, Deep learning, computer vision, Data Analytics etc.
+- 🌱 I’m currently learning motion control, path planning, computer vision and image processing,.
+- 💞️ I’m looking to collaborate on these topics.
 - 📫
 
 <!---
